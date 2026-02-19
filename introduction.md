@@ -1,21 +1,34 @@
 # Self Introduction (40-50 Seconds)
 
+## 🎤 For Sharpener Mock Interview
+
 **"Tell me about yourself"**
 
-"Hi, I am **Gaurav Kumar Mehta**, a final-year Computer Science student at **JIS College of Engineering**, with a strong passion for full-stack development and problem-solving.
+"Hi, I am **Gaurav Kumar Mehta**, a final-year Computer Science student at **JIS College of Engineering**, Kalyani, with a CGPA of 7.63.
 
-I have honed my skills in the **MERN stack**, proficiently using MongoDB, Express, React, and Node.js. My technical foundation is further solidified by a strong grasp of **Data Structures and Algorithms** in Java and Python.
+I specialize in **full-stack web development** using the MERN stack — MongoDB, Express, React, and Node.js. I also have strong foundations in **Python and C** for Data Structures & Algorithms.
 
-I have built impactful projects like **FashionHub**, a responsive e-commerce platform that improved user buying efficiency by 35%, and a **Bike & Scooter Rental System** that features real-time tracking and secure payments.
+I've built real-world projects like **FashionHub**, an e-commerce platform that improved user buying efficiency by 35%, and a **Bike & Scooter Rental System** with real-time tracking and secure payment integration.
 
-Beyond development, I am proud to hold a **patent** for an AI-driven tumor detection system. I am now looking for an opportunity where I can apply my skills to build scalable enterprise solutions and grow as a software engineer. Thank you."
+What sets me apart is my **patent for AI-based tumor detection** using deep learning — published in 2025. I'm passionate about building scalable solutions and eager to contribute to a product team. Thank you!"
 
 ---
 
-## Key Points to Remember
+## ⏱ Timing Breakdown
 
-1. **Name & Education**: Start strong with who you are.
-2. **Tech Stack**: Clearly mention MERN, Java, Python.
-3. **Projects**: Mention the *impact* (e.g., "efficiency by 35%").
-4. **Differentiation**: The Patent is your unique selling point.
-5. **Closing**: State what you are looking for.
+| Section | Time |
+|---------|------|
+| Name + College | ~8 sec |
+| Tech Stack | ~8 sec |
+| Projects (2) | ~15 sec |
+| Patent (USP) | ~8 sec |
+| Closing | ~5 sec |
+| **Total** | **~44 sec** ✅ |
+
+## 🎯 Key Rules
+
+1. **Never exceed 50 seconds** — interviewers cut you off
+2. **Mention 2 projects by name** — they'll ask follow-ups
+3. **End with what you're looking for** — shows intent
+4. **Speak slowly and clearly** — practice with a timer
+5. **Smile** — it comes through even in audio calls
